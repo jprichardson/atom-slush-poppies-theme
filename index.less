@@ -1,19 +1,22 @@
-.editor, .editor .gutter {
+:host, atom-text-editor, atom-text-editor::shadow {
   background-color: #F7F7F7;
   color: #000000;
-}
 
-.editor.is-focused .cursor {
-  border-color: #000000;
-}
+.gutter {}
 
-.editor.is-focused .selection .region {
-  background-color: #B0B0FF;
-}
+.is-focused {
+  .cursor {
+    border-color: #000000;
+  }
 
-// highlight bar
-.editor.is-focused .line-number.cursor-line-no-selection, .editor.is-focused .line.cursor-line {
-  background-color: rgba(0, 0, 0, 0.025);
+  .selection .region {
+    background-color: #B0B0FF;
+  }
+
+  // highlight bar
+  .line-number.cursor-line-no-selection, .line.cursor-line {
+    background-color: rgba(0, 0, 0, 0.025);
+  }
 }
 
 .comment {
@@ -124,4 +127,6 @@
 }
 
 .invalid {
+}
+
 }

@@ -5,6 +5,7 @@
 - changed comments from `#406040` to `#407F40`
 - keywords from `#2060A0` to `#2060C0`
 - storage from `#008080` to `#A08000`
+- updated for shadow-dom (Atom 1.0) / started using LESS nesting
 
 0.0.1 / 2014-03-03
 ------------------
