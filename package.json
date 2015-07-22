@@ -1,7 +1,7 @@
 {
   "name": "slush-poppies",
   "theme": "Slush & Poppies",
-  "version": "0.0.2",
+  "version": "0.1.0",
   "private": false,
   "description": "A port of the Slush & Poppies Textmate / Sublime Theme",
   "repository": "https://github.com/jprichardson/atom-slush-poppies-theme",
