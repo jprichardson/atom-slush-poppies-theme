@@ -8,5 +8,11 @@
   "license": "MIT",
   "engines": {
     "atom": ">0.50.0"
-  }
+  },
+  "keywords": [
+    "syntax",
+    "theme",
+    "slush",
+    "poppies"
+  ]
 }
