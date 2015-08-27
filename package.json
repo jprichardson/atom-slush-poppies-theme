@@ -1,6 +1,6 @@
 {
   "name": "slush-poppies",
-  "theme": "Slush & Poppies",
+  "theme": "syntax",
   "version": "0.1.0",
   "private": false,
   "description": "A port of the Slush & Poppies Textmate / Sublime Theme",
