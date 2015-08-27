@@ -1,3 +1,8 @@
+0.1.1 / 2015-08-27
+------------------
+- bugfix: wasn't showing up in syntax theme selection. See: https://github.com/jprichardson/atom-slush-poppies-theme/pull/2
+and https://github.com/jprichardson/atom-slush-poppies-theme/issues/1
+
 0.1.0 / 2015-07-22
 ------------------
 - slight change of background color `#F1F1F1` to `#F7F7F7`
